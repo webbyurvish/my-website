@@ -4,6 +4,6 @@ this is a really awesome website
 
 Updates made on master on Github before rebase
 
-## Repository Purpose
+## Purpose
 
-another change
+This file is just a readme file.
